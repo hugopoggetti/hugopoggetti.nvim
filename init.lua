@@ -1,0 +1,6 @@
+require("plugins.plugins-manager")
+require("core.jump")
+require("core.align")
+require("core.compile-mode")
+require("core.exec")
+require("config")
