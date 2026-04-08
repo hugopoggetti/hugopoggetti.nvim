@@ -3,6 +3,7 @@ require "nvim-treesitter".setup({
 		"bash",
 		"asm",
 		"haskell",
+        "java",
 		"c",
 		"c#",
 		"commonlisp",

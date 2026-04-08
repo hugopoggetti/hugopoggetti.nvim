@@ -1,4 +1,5 @@
 require("plugins.plugins-manager")
+require("plugins.setup")
 require("core.jump")
 require("core.align")
 require("core.compile-mode")
